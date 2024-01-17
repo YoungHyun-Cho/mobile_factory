@@ -1,3 +1,10 @@
+# 풀이 환경
+
+- IDE : IntelliJ Ultimate
+- Java : 20
+
+<br />
+
 # 실행 결과 및 문제 풀이
 
 ## 실행 결과
